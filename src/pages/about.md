@@ -6,4 +6,4 @@ updatedDate: "Dec 19 2022"
 heroImage: "/placeholder-about.jpg"
 ---
 
-I am a university student studying Computer Science & Geography, a tech & futurology enthusiast, environmentalist, and a puppy dad.
+I am a university student studying Computer Science & Geography and a puppy dad to a little ball of floof. My main interests are software development, cybersecurity, futurology, and sustainability.
