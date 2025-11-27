@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="archive-container">
+    <ul class="archive-list">
+        {{ range (where .Site.RegularPages "Type" "posts") }}
+        <li class="archive-item">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <span class="archive-date">{{ .Date.Format "2006-01-02" }}</span>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

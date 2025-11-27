@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="hero">
+    <h1 class="hero-title">Thinking deeply about human health.</h1>
+</section>
+
+<section class="latest-posts">
+    <h2>Latest Posts</h2>
+    {{ range first 5 (where .Site.RegularPages "Type" "posts") }}
+    <article class="post-card">
+        <span class="post-meta">{{ .Date.Format "January 2, 2006" }}</span>
+        <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <div class="post-summary">
+            {{ .Summary | truncate 150 }}
+        </div>
+        <a href="{{ .RelPermalink }}" class="read-more">Read more →</a>
+    </article>
+    {{ end }}
+</section>
+{{ end }}
