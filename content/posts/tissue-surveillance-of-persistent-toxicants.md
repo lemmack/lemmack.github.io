@@ -13,3 +13,10 @@ Recent post-mortem analyses underscore the urgency of addressing this gap. Studi
 To progress public health surveillance, we must move beyond the snapshot provided by blood samples and access the archive stored in tissues. This does not require a return to widely practiced complete autopsies. The emergence of Minimally Invasive Tissue Sampling (MITS), which utilizes needle biopsies to collect samples from key organs, offers a scalable, cost-effective, and culturally acceptable alternative.
 
 By integrating toxicological screening into MITS protocols, epidemiological data collection can evolve to capture the true burden of environmental toxicity. This shift is essential for establishing causal links between chronic exposure and non-communicable diseases, ultimately driving more effective environmental policy.
+
+# Implementations Thus Far
+
+## National Human Adipose Tissue Survey (NHATS)
+
+This program ran from 1970-1989 by the EPA of the United States. It collected adipose tissue samples from sugeons and medical examiners across the U.S. to monitor the prevalence of lipophilic toxic substances. It provided critical baseline data on the body burden of persistent organic pollutants like PCBs and organochlorine pesticides. It was **discontinued in 1989** as the focus shifted to the National Health and Nutrition Examination Survey (NHANES) which relies on blood and urine samples (more convenient but missing important tissue data).
+
