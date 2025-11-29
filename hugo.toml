@@ -2,6 +2,7 @@ baseURL = 'https://lemmack.github.io/'
 languageCode = 'en-us'
 title = 'Macklem J. Curtis'
 theme = [] # We will use local layouts for a custom feel
+enableGitInfo = true
 
 [params]
   description = "Personal website and blog of Macklem J. Curtis"

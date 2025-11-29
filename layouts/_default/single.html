@@ -1,7 +1,12 @@
 {{ define "main" }}
 <article class="post-single">
     <header class="post-header">
-        <div class="post-meta">{{ .Date.Format "January 2, 2006" }}</div>
+        <div class="post-meta">
+            {{ .Date.Format "January 2, 2006" }}
+            {{ if ne .Date .Lastmod }}
+            <br>Last Updated: {{ .Lastmod.Format "January 2, 2006" }}
+            {{ end }}
+        </div>
         <h1>{{ .Title }}</h1>
     </header>
     <div class="content">
