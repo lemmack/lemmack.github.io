@@ -136,6 +136,24 @@ h3 {
     /* Regular weight for serif */
     color: var(--text-color);
     letter-spacing: -0.01em;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.latest-posts h2 {
+    font-size: 1.35rem;
+    text-align: right;
+}
+
+.post-card {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--border-color);
+    transition: transform 0.2s ease;
 }
 
 .post-card:last-child {
