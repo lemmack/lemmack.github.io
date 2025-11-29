@@ -14,9 +14,12 @@ To progress public health surveillance, we must move beyond the snapshot provide
 
 By integrating toxicological screening into MITS protocols, epidemiological data collection can evolve to capture the true burden of environmental toxicity. This shift is essential for establishing causal links between chronic exposure and non-communicable diseases, ultimately driving more effective environmental health policy.
 
-# History and Implementation Attempts
+# History and Implementations
 
-## National Human Adipose Tissue Survey (NHATS)
+## National Human Adipose Tissue Survey (NHATS) (1970-1989)
 
 This program was conducted between 1970-1989 by the EPA of the United States. It collected adipose tissue samples from sugeons and medical examiners across the U.S. to monitor the prevalence of lipophilic toxic substances. It provided critical baseline data on the body burden of persistent organic pollutants like PCBs and organochlorine pesticides. It was **discontinued in 1989** as the focus shifted to the National Health and Nutrition Examination Survey (NHANES) which relies on blood and urine samples (more convenient but missing important tissue data).
 
+## Child Health and Mortality Study (CHAMPS) (2015 - Present)
+
+Founded in 2015 by the Melinda Gates Foundation, CHAMPS is a global health surveillance network dedicated to determining the definitive causes of death in children under five and stillbirths in high-mortality regions within Sub-Saharan Africa and South Asia. Moving beyond standard verbal autopsies, CHAMPS utilizes a "ground truth" protocol that combines clinical records with Minimally Invasive Tissue Sampling (MITS)—using biopsy needles to collect brain, lung, and liver tissue—which are then reviewed by a multidisciplinary panel to assign a precise cause of death. While the network currently prioritizes infectious diseases and malnutrition, its established infrastructure for collecting and banking solid organs seems to me like a potential candidate for future environmental toxicological surveillance.
