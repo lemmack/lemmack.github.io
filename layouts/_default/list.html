@@ -3,7 +3,7 @@
 <section class="post-list">
     {{ range .Paginator.Pages }}
     <article class="post-card">
-        <span class="post-meta">{{ .Date.Format "January 2, 2006" }}</span>
+        <span class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</span>
         <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <div class="post-summary">
             {{ .Summary }}
