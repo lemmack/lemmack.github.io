@@ -4,13 +4,21 @@ date: 2025-11-27T16:34:00-05:00
 draft: false
 ---
 
+# Introduction
+
 There's a gap in public health surveillance that I believe will eventually have to be addressed if we want the march of progress in population health to continue. Current surveillance relies heavily on biological fluids (blood serum and urine) to monitor population exposure to environmental contaminants. While these matrices effectively capture recent exposures and water-soluble compounds, they frequently fail to reflect the total body burden of persistent toxicants.
 
 This gap exists because many critical pollutants do not remain in circulation; they sequester in specific tissue compartments over a lifetime, and they can be tricky to measure. Lipophilic compounds like PCBs and pesticides partition into adipose tissue, mercury builds up in nervous tissue, lead accumulates in the skeleton, and so on. Consequently, relying solely on fluid biomonitoring creates a pharmacokinetic blind spot, risking a significant underestimation of the toxicological drivers behind chronic diseases, and especially those with long latency periods such as neurodegenerative disorders and renal pathology.
 
 Recent post-mortem analyses underscore the urgency of addressing this gap. Studies have confirmed the presence of per- and polyfluoroalkyl substances (PFAS a.k.a. "forever chemicals") in human brain tissue, challenging previous assumptions about the blood-brain barrier. Furthermore, the detection of black carbon in airway macrophages serves as a dosimeter for lifetime particulate exposure that ambient air monitors cannot replicate. These findings suggest that the body acts as a historical archive, recording exposures that fluid analysis misses entirely.
 
-To progress public health surveillance, we must move beyond the snapshot provided by blood samples and access the archive stored in tissues. This does not require a return to widely practiced complete autopsies. The emergence of Minimally Invasive Tissue Sampling (MITS), which utilizes needle biopsies to collect samples from key organs, offers a scalable, cost-effective, and culturally acceptable alternative. MITS is currently being used mostly for post-mortem analysis of infectious cases, but in theory could be adapted to analysis of persistant toxicants with little extra work involved.
+## Minimally Invasive Tissue Sampling (MITS)
+
+To progress public health surveillance, we must move beyond the snapshot provided by blood samples and access the archive stored in tissues. This does not require a return to widely practiced complete autopsies. The emergence of Minimally Invasive Tissue Sampling (MITS), which utilizes needle biopsies to collect samples from key organs, offers a scalable, cost-effective, and culturally acceptable alternative. MITS is currently being used mostly for post-mortem analysis of infectious cases, but in theory could be adapted to analysis of persistant toxicants with a little ingenuity.
+
+Scaling MITS for toxicological surveillance does face one significant operational hurdle: the 'fixative' problem. Standard MITS protocols, like those used in infectious disease, typically rely on formalin-fixed paraffin-embedded (FFPE) tissues. While excellent for preserving cell structure for microscopes, formalin can cross-link proteins and even contaminate samples with trace metals, rendering them less ideal for precise chemical analysis.
+
+A dedicated 'MITS-Tox' protocol would likely require fresh-frozen samples. This introduces a cold-chain logistics challenge—biopsy cores would need to be flash-frozen in liquid nitrogen or stored at -80°C immediately after collection. While more demanding than a jar of formalin, this infrastructure already exists in many biobanks and research hospitals; it simply needs to be standardized for the field.
 
 By integrating toxicological screening into MITS protocols, epidemiological data collection can evolve to capture the true burden of environmental toxicity. This shift is essential for establishing causal links between chronic exposure and non-communicable diseases, ultimately driving more effective environmental health policy.
 
