@@ -7,6 +7,12 @@ enableGitInfo = true
 [params]
   description = "Personal website and blog of Macklem J. Curtis"
   author = "Macklem J. Curtis"
+  toc = true
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
 
 [menu]
   [[menu.main]]

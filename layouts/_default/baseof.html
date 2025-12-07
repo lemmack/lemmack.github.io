@@ -19,7 +19,7 @@
 <body>
     <header>
         <a href="/" class="site-title">{{ .Site.Title }}</a>
-        <nav>
+        <nav class="main-nav">
             <ul>
                 {{ range .Site.Menus.main }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>

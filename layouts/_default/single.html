@@ -10,6 +10,12 @@
         <h1>{{ .Title }}</h1>
     </header>
     <div class="content">
+        {{ if .Params.toc | default true }}
+        <div class="toc">
+            <div class="toc-title">Table of Contents</div>
+            {{ .TableOfContents }}
+        </div>
+        {{ end }}
         {{ .Content }}
     </div>
 </article>

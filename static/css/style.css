@@ -52,7 +52,7 @@ header {
     letter-spacing: -0.02em;
 }
 
-nav ul {
+.main-nav ul {
     list-style: none;
     display: flex;
     gap: 1.5rem;
@@ -61,7 +61,7 @@ nav ul {
     align-items: center;
 }
 
-nav a {
+.main-nav a {
     color: var(--text-secondary);
     text-decoration: none;
     font-weight: 500;
@@ -69,7 +69,7 @@ nav a {
     transition: color 0.2s ease;
 }
 
-nav a:hover {
+.main-nav a:hover {
     color: var(--accent-color);
 }
 
@@ -202,12 +202,7 @@ h2 {
 .post-card .post-summary h4,
 .post-card .post-summary h5,
 .post-card .post-summary h6 {
-    font-size: 1.1rem !important;
-    margin-top: 0.5rem;
-    margin-bottom: 0.25rem;
-    line-height: 1.4;
-    font-weight: 600;
-    color: var(--text-color);
+    display: none !important;
 }
 
 .read-more {
@@ -297,4 +292,59 @@ footer {
 
 .content a:hover {
     border-bottom-color: var(--accent-color);
+}
+
+/* Table of Contents */
+.toc {
+    background-color: var(--bg-color);
+    /* Kept consistent with theme but can be distinct if needed */
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 0.95rem;
+    max-width: 100%;
+}
+
+.toc-title {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+    color: var(--text-color);
+}
+
+/* Target the ID directly for maximum specificity */
+#TableOfContents ul {
+    list-style: disc !important;
+    padding-left: 1.2rem !important;
+    margin: 0 !important;
+    display: block !important;
+    gap: 0 !important;
+    /* Reset gap from global nav */
+}
+
+#TableOfContents ul ul {
+    padding-left: 1.5rem !important;
+    margin-top: 0.25rem !important;
+    list-style: circle !important;
+}
+
+#TableOfContents li {
+    margin-bottom: 0.25rem !important;
+    display: list-item !important;
+    width: auto !important;
+}
+
+.toc nav a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    border-bottom: none;
+    transition: color 0.2s ease;
+}
+
+.toc nav a:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
+    border-bottom: none;
 }
