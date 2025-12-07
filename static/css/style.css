@@ -139,6 +139,14 @@ h3 {
     margin-top: 0;
 }
 
+.hero-note {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-top: 1rem;
+    max-width: 650px;
+    line-height: 1.5;
+}
+
 h2 {
     font-size: 1.5rem;
     border-bottom: 1px solid var(--border-color);
