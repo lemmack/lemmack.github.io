@@ -14,7 +14,7 @@ Recent post-mortem analyses underscore the urgency of addressing this gap. [Stud
 
 # Addressing Post-Mortem Bias
 
-A valid epidemiological criticism of autopsy-based surveillance is selection bias. In public health, we often face the "Healthy Worker Effect," where the working population is healthier than the general public. With autopsy studies, we face the inverse. The population that undergoes autopsy is inherently skewed towards the elderly, the chronically ill, and those with multiple comorbidities.
+A valid epidemiological criticism of autopsy-based surveillance is selection bias. In public health, we often face the "[Healthy Worker Effect](https://doi.org/10.1093/occmed/49.4.225)," where the working population is healthier than the general public. With autopsy studies, we face the inverse. The population that undergoes autopsy is inherently skewed towards the elderly, the chronically ill, and those with multiple comorbidities.
 
 If we only sample from hospital deaths, we risk measuring the toxic burden of the sick rather than the baseline burden of the population. This "denominator problem" can lead to overestimating associations between toxicants and specific diseases if not carefully managed.
 
@@ -48,10 +48,17 @@ Scaling MITS for toxicological surveillance faces a significant operational hurd
 
 To accurately quantify the body burden of a pollutant, the sample must remain chemically pristine. Formalin introduces three major sources of error.
 
-### 1. The Contamination Baseline
-In toxicology, we are often looking for parts per billion (ppb). Standard commercial formalin is notoriously "dirty" from a chemical perspective.
-* **Trace Metals:** Formalin buffers frequently contain trace amounts of zinc, copper, and even lead from industrial manufacturing and storage. If you submerge a tissue sample in this solution, you ruin the ability to distinguish between the lead that was in the bone and the lead that was in the jar.
-* **Plasticizers:** Formalin is often stored in plastic containers that leach phthalates and bisphenols. This makes it impossible to accurately measure these specific endocrine disruptors in the tissue, as the background noise from the fixative overwhelms the signal.
+### 1. Contamination and Leaching
+In toxicology, we are often measuring parts per billion (ppb). At these concentrations, formalin fixation introduces two opposing sources of error: [contamination and leaching](https://doi.org/10.1002/etc.4709).
+**Contamination (False Highs)**
+Standard commercial formalin is can be "dirty" from a chemical perspective.
+* **Trace Metals:** Formalin buffers frequently contain trace amounts of zinc, copper, and even lead from industrial manufacturing and storage. Studies have found that copper concentrations in formalin-fixed brain tissue [can increase by approximately 37%](https://doi.org/10.1007/s10534-010-9359-4) compared to fresh-frozen samples, likely due to contamination from the fixative. If you submerge a tissue sample in this solution, you lose the ability to distinguish between the metal that was in the tissue and the metal that was in the jar.
+* **Plasticizers:**  Formalin is often stored in plastic containers that leach phthalates and bisphenols. This makes it difficult to accurately measure these specific endocrine disruptors in the tissue, as background contamination from storage can overwhelm the true signal.
+**Leaching (False Lows)**
+The opposite problem is equally serious. Formalin is an aqueous solution, and over time, soluble elements diffuse out of the tissue and into the surrounding fluid.
+* **Time-Dependent Loss:** Studies of formalin-fixed brain tissue have documented substantial leaching that increases with storage duration. Concentrations of arsenic, cadmium, magnesium, and rubidium in the formalin can [increase more than 100-fold](https://doi.org/10.1007/s12011-007-8051-1) over years of storage, representing material lost from the tissue itself.
+* **Differential Effects:** The magnitude of leaching varies considerably by element. Iron concentrations in fixed brain tissue can decrease by approximately 40%, and zinc by as much as 77%, while nickel and chromium show minimal leaching. This inconsistency means there is no simple correction factor; each analyte behaves differently.
+The net effect is bidirectional error that varies by compound, tissue type, and storage duration, making quantitative comparisons across studies nearly impossible.
 
 ### 2. Extraction Efficiency
 To measure a toxicant, you must first extract it from the tissue matrix. Formalin works by cross-linking proteins, effectively turning the tissue into a rubbery, resistant material.
@@ -67,7 +74,7 @@ To solve these quantification issues, a dedicated "MITS-Tox" protocol would like
 
 # Mapping the Total Exposome
 
-The ultimate goal of this surveillance is to operationalize the "exposome." First proposed by cancer epidemiologist Christopher Wild in 2005, the exposome encompasses the totality of human environmental exposures from conception onwards. It is the environmental complement to the genome.
+The ultimate goal of this surveillance is to operationalize the "exposome." [First proposed](https://doi.org/10.1158/1055-9965.epi-05-0456) by cancer epidemiologist Christopher Wild in 2005, the exposome encompasses the totality of human environmental exposures from conception onwards. It is the environmental complement to the genome.
 
 Currently, our ability to measure the exposome is unbalanced. We have excellent tools for measuring the external exposome (via air monitors and water testing) and decent tools for measuring the transient internal exposome (via blood and urine biomarkers). However, we almost entirely lack data on the *cumulative* internal exposome.
 
@@ -87,7 +94,7 @@ The infrastructure for this exists in our hospitals and biobanks. The technology
 
 ## National Human Adipose Tissue Survey (NHATS) (1970-1989)
 
-This program was conducted between 1970-1989 by the EPA of the United States. It collected adipose tissue samples from surgeons and medical examiners across the U.S. to monitor the prevalence of lipophilic toxic substances. It provided critical baseline data on the body burden of persistent organic pollutants like PCBs and organochlorine pesticides. It was **discontinued in 1989** as the focus shifted to the National Health and Nutrition Examination Survey (NHANES) which relies on blood and urine samples (more convenient but missing important tissue data).
+This program was conducted between 1970-1989 by the EPA of the United States as the main study making up the [National Human Monitoring Program](https://doi.org/10.17226/1787). It collected adipose tissue samples from surgeons and medical examiners across the U.S. to monitor the prevalence of lipophilic toxic substances. It provided critical baseline data on the body burden of persistent organic pollutants like PCBs and organochlorine pesticides. It was **discontinued in 1989** as the focus shifted to the National Health and Nutrition Examination Survey (NHANES) which relies on blood and urine samples (more convenient but missing important tissue data).
 
 It's important to note that NHATS was not discontinued because it failed scientifically. It was discontinued in 1989 largely due to budget cuts and a bureaucratic shift toward 'easier' fluids-based monitoring.
 
@@ -101,7 +108,7 @@ But the discontinuation of NHATS in 1989 wasn't just a budgetary decision; it wa
 
 **Why Models Failed:** History has shown this singular reliance on modeling to be an error.
 * **PFAS:** Predictive models failed to anticipate the bioaccumulation of perfluorinated compounds because the chemistry was novel and the uptake pathways were not yet understood. We only found them because we physically looked.
-* **PBDEs:** Flame retardants rose in human tissue for years while regulators assumed they were safe, simply because there was no surveillance net to catch the trend early.
+* **PBDEs:** Flame retardants [rose in human tissue for years](https://doi.org/10.1021/es035082g) while regulators assumed they were safe, simply because there was no surveillance net to catch the trend early.
 
 Restarting a tissue archive is an admission that models are insufficient. We cannot predict the behavior of 80,000+ industrial chemicals; we must return to the empirical standard of measuring what is actually inside us.
 
