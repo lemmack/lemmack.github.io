@@ -50,10 +50,12 @@ To accurately quantify the body burden of a pollutant, the sample must remain ch
 
 ### 1. Contamination and Leaching
 In toxicology, we are often measuring parts per billion (ppb). At these concentrations, formalin fixation introduces two opposing sources of error: [contamination and leaching](https://doi.org/10.1002/etc.4709).
+
 **Contamination (False Highs)**
 Standard commercial formalin is can be "dirty" from a chemical perspective.
 * **Trace Metals:** Formalin buffers frequently contain trace amounts of zinc, copper, and even lead from industrial manufacturing and storage. Studies have found that copper concentrations in formalin-fixed brain tissue [can increase by approximately 37%](https://doi.org/10.1007/s10534-010-9359-4) compared to fresh-frozen samples, likely due to contamination from the fixative. If you submerge a tissue sample in this solution, you lose the ability to distinguish between the metal that was in the tissue and the metal that was in the jar.
 * **Plasticizers:**  Formalin is often stored in plastic containers that leach phthalates and bisphenols. This makes it difficult to accurately measure these specific endocrine disruptors in the tissue, as background contamination from storage can overwhelm the true signal.
+
 **Leaching (False Lows)**
 The opposite problem is equally serious. Formalin is an aqueous solution, and over time, soluble elements diffuse out of the tissue and into the surrounding fluid.
 * **Time-Dependent Loss:** Studies of formalin-fixed brain tissue have documented substantial leaching that increases with storage duration. Concentrations of arsenic, cadmium, magnesium, and rubidium in the formalin can [increase more than 100-fold](https://doi.org/10.1007/s12011-007-8051-1) over years of storage, representing material lost from the tissue itself.
