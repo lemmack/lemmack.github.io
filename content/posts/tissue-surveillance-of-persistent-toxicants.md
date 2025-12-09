@@ -10,7 +10,7 @@ There's a gap in public health surveillance that I believe will eventually have 
 
 This gap exists because many critical pollutants do not remain in circulation; they sequester in specific tissue compartments over a lifetime, and they can be tricky to measure. Lipophilic compounds like PCBs and pesticides partition into adipose tissue, mercury builds up in nervous tissue, lead accumulates in the skeleton, and so on. Consequently, relying solely on fluid biomonitoring creates a pharmacokinetic blind spot, risking a significant underestimation of the toxicological drivers behind chronic diseases, and especially those with long latency periods such as neurodegenerative disorders and renal pathology.
 
-Recent post-mortem analyses underscore the urgency of addressing this gap. [Studies have confirmed](https://doi.org/10.1021/acs.est.4c09458) the presence of per- and polyfluoroalkyl substances (PFAS a.k.a. "forever chemicals") in human brain tissue, challenging previous assumptions about the blood-brain barrier. Furthermore, [the detection of black carbon](https://doi.org/10.1186/s12989-018-0250-8) in airway macrophages serves as a dosimeter for lifetime particulate exposure that ambient air monitors cannot replicate. These findings suggest that the body acts as a historical archive, recording exposures that fluid analysis misses entirely.
+Recent post-mortem analyses underscore the urgency of addressing this gap. [Studies have confirmed](https://doi.org/10.1021/acs.est.4c09458) the presence of per- and polyfluoroalkyl substances (PFAS a.k.a. "forever chemicals") in human brain tissue, adding quantitative evidence to growing concerns about blood-brain barrier penetration by these compounds. Furthermore, [the detection of black carbon](https://doi.org/10.1186/s12989-018-0250-8) in airway macrophages serves as a dosimeter for lifetime particulate exposure that ambient air monitors cannot replicate. These findings suggest that the body acts as a historical archive, recording exposures that fluid analysis misses entirely.
 
 # Addressing Post-Mortem Bias
 
@@ -23,24 +23,24 @@ If we only sample from hospital deaths, we risk measuring the toxic burden of th
 To resolve this, a robust tissue surveillance program must prioritize specific categories of donors that serve as better proxies for the living, healthy population.
 
 **Sudden Accidental Deaths**
-The "gold standard" for environmental surveillance is not the typical hospital autopsy but the forensic autopsy of sudden, accidental deaths (e.g., motor vehicle accidents). These individuals are often younger and healthier prior to the event. Their tissue burden represents a snapshot of the general population rather than a snapshot of end-stage disease.
+One approach to reducing selection bias is to prioritize forensic autopsies of sudden, accidental deaths (e.g., motor vehicle accidents) over typical hospital autopsies. These individuals are often younger and healthier prior to the event, and their tissue burden may better approximate the general population than samples from end-stage disease. However, this population introduces its own biases: it skews male and young, concentrates geographically near urban trauma centers, and may be confounded by factors associated with accidental death (such as substance use in some motor vehicle cases). These limitations would need to be addressed through careful stratification and sensitivity analyses.
 
 **Living Tissue Banks (Surgical Waste)**
-We can also move beyond post-mortem sampling entirely by utilizing "surgical waste" from living patients.
-* **Bariatric Surgery:** This provides high-volume adipose tissue samples from a living population, allowing for real-time monitoring of lipophilic compounds.
-* **Orthopedic Surgery:** Procedures like hip replacements provide bone fragments that can be analyzed for lead and strontium accumulation.
+We can also move beyond post-mortem sampling by utilizing "surgical waste" from living patients.
+* **Bariatric Surgery:** This provides high-volume adipose tissue samples from a living population, allowing for real-time monitoring of lipophilic compounds. However, bariatric patients represent a metabolically distinct subpopulation, and findings may not generalize to the broader population without appropriate adjustment.
+* **Orthopedic Surgery:** Procedures like hip replacements provide bone fragments that can be analyzed for lead and strontium accumulation. This population skews elderly and may over-represent certain socioeconomic groups with access to elective surgery.
 
 By stratifying samples between "disease-related deaths" and "accidental deaths," researchers could control for the healthy donor effect and build a more accurate model of population-level exposure.
 
 # Minimally Invasive Tissue Sampling (MITS)
 
-To progress public health surveillance, we must move beyond the snapshot provided by blood samples and access the archive stored in tissues. This does not require a return to widely practiced complete autopsies. The emergence of Minimally Invasive Tissue Sampling (MITS), which utilizes needle biopsies to collect samples from key organs, offers a scalable, cost-effective, and culturally acceptable alternative. MITS is currently being used mostly for post-mortem analysis of infectious cases, but in theory could be adapted to analysis of persistant toxicants with a little ingenuity.
+To progress public health surveillance, we must move beyond the snapshot provided by blood samples and access the archive stored in tissues. This does not require a return to widely practiced complete autopsies. The emergence of Minimally Invasive Tissue Sampling (MITS), which utilizes needle biopsies to collect samples from key organs, offers a scalable, cost-effective, and culturally acceptable alternative. MITS is currently being used mostly for post-mortem analysis of infectious cases, but in theory could be adapted to analysis of persistent toxicants with a little ingenuity.
 
 Scaling MITS for toxicological surveillance does face one significant operational hurdle: the 'fixative' problem. Standard MITS protocols, like those used in infectious disease, typically rely on formalin-fixed paraffin-embedded (FFPE) tissues. While excellent for preserving cell structure for microscopes, formalin can cross-link proteins and even contaminate samples with trace metals, rendering them less ideal for precise chemical analysis.
 
 A dedicated 'MITS-Tox' protocol would likely require fresh-frozen samples. This introduces a cold-chain logistics challenge, as biopsy cores would need to be flash-frozen in liquid nitrogen or stored at -80°C immediately after collection. While more demanding than a jar of formalin, this infrastructure already exists in many biobanks and research hospitals; it simply needs to be standardized for the field.
 
-By integrating toxicological screening into MITS protocols, epidemiological data collection can evolve to capture the true burden of environmental toxicity. This shift is essential for establishing causal links between chronic exposure and non-communicable diseases, ultimately driving more effective environmental health policy. To be clear, I am not sure if MITS-Tox is the best solution, but it is the first one that comes to mind since it would involve repurposing a system that already exists.
+By integrating toxicological screening into MITS protocols, epidemiological data collection can evolve to capture the true burden of environmental toxicity. This shift could strengthen the evidence base for associations between chronic exposure and non-communicable diseases, ultimately driving more effective environmental health policy. To be clear, I am not sure if MITS-Tox is the best solution, but it is the first one that comes to mind since it would involve repurposing a system that already exists.
 
 ## The Engineering Challenge: Chemical Purity vs. Preservation
 
@@ -73,13 +73,13 @@ Currently, our ability to measure the exposome is unbalanced. We have excellent 
 
 This data gap cripples our ability to draw causal links between environment and disease. If we attempt to correlate a lifetime of exposure with a chronic disease using only a blood sample taken at the time of diagnosis, we are effectively trying to reconstruct a movie from a single frame.
 
-MITS offers one possible bridge. By banking tissue, we gain access to the biological archive where the cumulative effects of the environment are written.
+MITS offers one possible bridge. But regardless of the method, by banking tissue we gain access to a biological record of cumulative exposures that is shaped by ongoing processes of uptake, redistribution, metabolism, and elimination.
 
 ## From Prediction to Observation
 
 For decades, environmental health policy has relied heavily on risk assessment modeling. Agencies estimate human risk based on factory emissions data and animal studies, mathematically predicting what the body burden *should* be.
 
-This approach will not be sufficient forver. To continue making progress, we need to move from predictive modeling to empirical observation. We do not need to guess if "forever chemicals" are crossing the blood-brain barrier or if microplastics are accumulating in the liver. With a standardized, ethically sourced MITS-Tox network (or some other solution), we could simply look and see.
+This approach will not be sufficient forever. To continue making progress, we need to complement predictive modeling with direct empirical observation. We do not need to rely solely on estimates of whether "forever chemicals" are crossing the blood-brain barrier or whether microplastics are accumulating in the liver. With a standardized, ethically sourced MITS-Tox network (or some other solution), we could measure these burdens directly, though translating such measurements into causal understanding of disease would remain a separate challenge.
 
 The infrastructure for this exists in our hospitals and biobanks. The technology for analysis exists in our mass spectrometry labs. All that is missing is the mandate to look where the toxicants actually hide.
 
@@ -87,11 +87,11 @@ The infrastructure for this exists in our hospitals and biobanks. The technology
 
 ## National Human Adipose Tissue Survey (NHATS) (1970-1989)
 
-This program was conducted between 1970-1989 by the EPA of the United States. It collected adipose tissue samples from sugeons and medical examiners across the U.S. to monitor the prevalence of lipophilic toxic substances. It provided critical baseline data on the body burden of persistent organic pollutants like PCBs and organochlorine pesticides. It was **discontinued in 1989** as the focus shifted to the National Health and Nutrition Examination Survey (NHANES) which relies on blood and urine samples (more convenient but missing important tissue data).
+This program was conducted between 1970-1989 by the EPA of the United States. It collected adipose tissue samples from surgeons and medical examiners across the U.S. to monitor the prevalence of lipophilic toxic substances. It provided critical baseline data on the body burden of persistent organic pollutants like PCBs and organochlorine pesticides. It was **discontinued in 1989** as the focus shifted to the National Health and Nutrition Examination Survey (NHANES) which relies on blood and urine samples (more convenient but missing important tissue data).
 
 It's important to note that NHATS was not discontinued because it failed scientifically. It was discontinued in 1989 largely due to budget cuts and a bureaucratic shift toward 'easier' fluids-based monitoring.
 
-In fact, a 1991 National Academy of Sciences report strongly recommended restarting the program, noting that fluid monitoring was insufficient for persistent pollutants. They requested an annual budget of $25–50 million to maintain the tissue archive, which is a fraction of what we spend on healthcare for the diseases these pollutants likely exacerbate. That funding never materialized, and the program has remained dormant for over thirty years.
+In fact, a 1991 National Academy of Sciences report strongly recommended continuing and redesigning the program, noting that fluid monitoring was insufficient for persistent pollutants. The report observed that funding "up to $25–50 million per year suggested by heads of other agencies could be put to good use" for a comprehensive tissue monitoring program, a fraction of what we spend on healthcare for the diseases these pollutants may exacerbate. That level of funding never materialized, and the program has remained dormant for over thirty years.
 
 ### The Policy Failure: Surveillance vs. Modeling
 
@@ -107,4 +107,4 @@ Restarting a tissue archive is an admission that models are insufficient. We can
 
 ## Child Health and Mortality Study (CHAMPS) (2015 - Present)
 
-Founded in 2015 by the Melinda Gates Foundation, CHAMPS is a global health surveillance network dedicated to determining the definitive causes of death in children under five and stillbirths in high-mortality regions within Sub-Saharan Africa and South Asia. Moving beyond standard verbal autopsies, CHAMPS utilizes a "ground truth" protocol that combines clinical records with Minimally Invasive Tissue Sampling (MITS), which are then reviewed by a multidisciplinary panel to assign a precise cause of death. While the network currently prioritizes infectious diseases and malnutrition, its established infrastructure for collecting and banking solid organs seems to me like a potential candidate for future environmental toxicological surveillance.
+Established in 2015 by the Bill & Melinda Gates Foundation (with sites becoming operational in 2016-2017), CHAMPS is a global health surveillance network dedicated to determining the definitive causes of death in children under five and stillbirths in high-mortality regions within Sub-Saharan Africa and South Asia. Moving beyond standard verbal autopsies, CHAMPS utilizes a "ground truth" protocol that combines clinical records with Minimally Invasive Tissue Sampling (MITS), which are then reviewed by a multidisciplinary panel to assign a precise cause of death. While the network currently prioritizes infectious diseases and malnutrition, its established infrastructure for collecting and banking solid organs seems to me like a potential candidate for future environmental toxicological surveillance.
