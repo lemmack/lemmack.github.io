@@ -12,25 +12,54 @@ This gap exists because many critical pollutants do not remain in circulation; t
 
 Recent post-mortem analyses underscore the urgency of addressing this gap. [Studies have confirmed](https://doi.org/10.1021/acs.est.4c09458) the presence of per- and polyfluoroalkyl substances (PFAS a.k.a. "forever chemicals") in human brain tissue, adding quantitative evidence to growing concerns about blood-brain barrier penetration by these compounds. Furthermore, [the detection of black carbon](https://doi.org/10.1186/s12989-018-0250-8) in airway macrophages serves as a dosimeter for lifetime particulate exposure that ambient air monitors cannot replicate. These findings suggest that the body acts as a historical archive, recording exposures that fluid analysis misses entirely.
 
-# Addressing Post-Mortem Bias
+# Building a Representative Sample
 
 A valid epidemiological criticism of autopsy-based surveillance is selection bias. In public health, we often face the "[Healthy Worker Effect](https://doi.org/10.1093/occmed/49.4.225)," where the working population is healthier than the general public. With autopsy studies, we face the inverse. The population that undergoes autopsy is inherently skewed towards the elderly, the chronically ill, and those with multiple comorbidities.
 
 If we only sample from hospital deaths, we risk measuring the toxic burden of the sick rather than the baseline burden of the population. This "denominator problem" can lead to overestimating associations between toxicants and specific diseases if not carefully managed.
 
-## Mitigating Bias: The Trauma Gold Standard
+## Near-Term Strategies
 
-To resolve this, a robust tissue surveillance program must prioritize specific categories of donors that serve as better proxies for the living, healthy population.
+In the absence of systematic tissue donation, a robust surveillance program must work with available sample sources while actively mitigating their biases.
 
-**Sudden Accidental Deaths**
+### Sudden Accidental Deaths
+
 One approach to reducing selection bias is to prioritize forensic autopsies of sudden, accidental deaths (e.g., motor vehicle accidents) over typical hospital autopsies. These individuals are often younger and healthier prior to the event, and their tissue burden may better approximate the general population than samples from end-stage disease. However, this population introduces its own biases: it skews male and young, concentrates geographically near urban trauma centers, and may be confounded by factors associated with accidental death (such as substance use in some motor vehicle cases). These limitations would need to be addressed through careful stratification and sensitivity analyses.
 
-**Living Tissue Banks (Surgical Waste)**
+### Living Tissue Banks (Surgical Waste)
+
 We can also move beyond post-mortem sampling by utilizing "surgical waste" from living patients.
+
 * **Bariatric Surgery:** This provides high-volume adipose tissue samples from a living population, allowing for real-time monitoring of lipophilic compounds. However, bariatric patients represent a metabolically distinct subpopulation, and findings may not generalize to the broader population without appropriate adjustment.
 * **Orthopedic Surgery:** Procedures like hip replacements provide bone fragments that can be analyzed for lead and strontium accumulation. This population skews elderly and may over-represent certain socioeconomic groups with access to elective surgery.
 
-By stratifying samples between "disease-related deaths" and "accidental deaths," researchers could control for the healthy donor effect and build a more accurate model of population-level exposure.
+By stratifying samples between "disease-related deaths" and "accidental deaths," and supplementing with surgical waste where possible, researchers could control for the healthy donor effect and build a more accurate model of population-level exposure. But these strategies remain fundamentally opportunistic. Trauma deaths skew young and male; surgical waste comes from patients who can access elective procedures; hospital autopsies capture the chronically ill. Even with careful stratification, these sources cannot deliver what population-level surveillance truly requires: representative tissue samples across all demographics, geographies, and health statuses.
+
+## The Long-Term Vision: A Donation Norm
+
+A more ambitious approach would make posthumous tissue donation for scientific surveillance a social norm, similar to organ donation but with a lighter footprint. The infrastructure for this already exists in many countries through organ donor registries. The question is whether tissue surveillance could piggyback on these systems or establish parallel opt-out frameworks.
+
+### The Case for Opt-Out
+
+Countries with presumed consent for organ donation consistently achieve higher participation rates than those requiring explicit opt-in. Spain, which pioneered opt-out legislation in 1979, maintains donation rates roughly double those of opt-in countries like Germany. Austria and Belgium have seen similar results. The psychological insight is straightforward: most people are willing to donate but never get around to registering. Opt-out systems align the default with the majority preference.
+
+Tissue surveillance for toxicological research may actually be an easier sell than organ transplantation. Organ donation involves a zero-sum tension: this heart could go to patient A or patient B, and families must grapple with the knowledge that their loved one's organs are sustaining someone else's life. Tissue surveillance involves no such tension. A few tissue samples from key organs, taken after death, contribute to an anonymous scientific archive. There is no recipient, no waitlist, no competing claims.
+
+An opt-out system for tissue surveillance might work as follows: upon death, a standard collection protocol would obtain small tissue samples from adipose, liver, kidney, brain, and bone unless the individual had previously registered an objection or the family objects at the time of death. Samples would be anonymized and banked, with demographic and (where available) residential and occupational history attached but stripped of identifying information.
+
+### Addressing Participation Bias
+
+One objection deserves direct engagement: opt-out systems do not guarantee representative participation. Organ donation rates already vary by race, socioeconomic status, religion, and geography, and these disparities would likely persist in tissue surveillance. Communities with historical reasons to distrust medical institutions may opt out at higher rates, potentially reproducing the very biases the program aims to eliminate.
+
+This is a genuine concern, but it argues for intentional outreach rather than abandoning the opt-out framework. A tissue surveillance program would need to invest in community engagement, particularly in populations underrepresented in existing biobanks. It would also need transparent governance, with clear rules about data access, privacy protections, and community benefit-sharing. The goal should be to make participation feel like a contribution to collective knowledge rather than extraction by distant institutions.
+
+### The Precedent of Body Donation
+
+Body donation for medical education has existed for centuries, and while participation rates remain modest, the practice is widely accepted as socially valuable. Tissue surveillance asks for far less: not the entire body for dissection, but a few grams of tissue collected through minimally invasive sampling. If we can normalize full-body donation for training purposes, normalizing tissue sampling for public health surveillance seems achievable.
+
+The deeper question is whether we can build a culture that views the body after death as a source of knowledge for the living. Every person who dies carries within their tissues a record of the air they breathed, the water they drank, the food they ate, and the products they touched. That record currently vanishes with cremation or burial. An opt-out tissue surveillance system would preserve a fraction of that information, transforming individual deaths into contributions toward understanding the environmental drivers of disease.
+
+This would require sustained public communication about the purpose and value of the program, along with genuine accountability for how samples are used. But if successful, it could provide what no amount of clever sampling from trauma cases and surgical waste can deliver: a true population-level archive of the human exposome.
 
 # Minimally Invasive Tissue Sampling (MITS)
 

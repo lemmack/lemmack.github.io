@@ -1,0 +1,134 @@
+---
+title: "Exploring Biological Coherence"
+date: 2025-12-07T08:47:00-05:00
+draft: true
+---
+
+# Introduction
+
+Aaron Antonovsky's concept of salutogenesis has always struck me as underexplored. His framework proposed that a "Sense of Coherence" is central to human resilience. The question I keep returning to is whether this coherence has a biological substrate we can actually point to, or whether it remains a purely psychological construct.
+
+Medicine has mapped the pathways of pathogenesis with remarkable precision. We understand, in molecular detail, how things go wrong. The origins of health, the conditions under which the body actively thrives rather than merely avoids disease, remain fuzzier. I've been reading across several fields trying to understand whether there's a physiological foundation for coherence, and I want to sketch a speculative model that connects them.
+
+The model, stated simply: developmental and environmental insults compromise the body's structural architecture, which impairs the extracellular environment where cells operate, which causes cells to mount chronic stress responses they cannot exit. Biological coherence is what you have when this chain is intact. Incoherence is what you get when it breaks down at any point.
+
+I want to be clear about what follows. I'm not actively doing research in any of these fields. I have a background in public health and health science, and an interest in how disparate ideas might connect. Each domain I'll discuss has empirical support, though they vary in how well-established they are. The connections between them are my own speculation. I'm writing this to see whether the model holds up to scrutiny, and I expect to revise it as I learn more.
+
+# The Chain
+
+Here's the causal pathway I'm tentatively proposing:
+
+1. **Developmental and environmental insult.** The body develops under suboptimal mechanical conditions (mouth breathing, soft foods, restricted movement, sitting in chairs) and/or chemical exposure (persistent organic pollutants, heavy metals, other toxicants).
+
+2. **Structural compromise.** The biotensegrity system, the continuous tension network of fascia, tendons, and ligaments within which bones float as compression elements, develops with suboptimal geometry. The architecture is off. The forces are not well distributed and the space within the system is compromised.
+
+3. **Matrix dysfunction.** Compromised architecture means impaired fluid flow through interstitial spaces, altered mechanical properties of the extracellular matrix, and potentially accumulation of toxicants that the system cannot clear efficiently.
+
+4. **Aberrant cellular signaling.** Cells receive distorted mechanical and chemical signals from their environment. The matrix is too stiff, or too congested, or chemically polluted.
+
+5. **Chronic stress response.** Cells interpret these signals as danger and initiate protective metabolic shifts. Because the upstream causes persist, the cells cannot exit this defensive state.
+
+The rest of this post examines each node in the chain and the evidence for connections between them.
+
+# Structure: Biotensegrity and How It Goes Wrong
+
+Conventional biomechanics treats the skeleton as a compression structure: bones stacked, muscles acting as levers. This model has trouble explaining certain phenomena, like how biological systems dissipate force without fracturing, or how quadrupeds support their weight with horizontally oriented spines.
+
+Biotensegrity, developed by orthopedic surgeon Stephen Levin building on Buckminster Fuller's architectural work, proposes an alternative. The body operates as a tension network, with bones floating as compression elements within a continuous web of connective tissue. Mechanical forces distribute across the entire system rather than concentrating at joints.
+
+What interests me is the downstream implication. If whole-body tensegrity is real, then disruptions to tensional balance (through developmental problems, injury, chronic postural patterns, scarring) alter the mechanical environment experienced by cells throughout the body.
+
+This possibility is well-supported at the cellular level. Donald Ingber's work at Harvard has demonstrated that cells sense and respond to mechanical forces through mechanotransduction, with tension on the cytoskeleton influencing gene expression, differentiation, and behavior. The molecular pathways involved (integrins, focal adhesions, YAP/TAZ signaling) are increasingly well-characterized.
+
+The open question is whether macroscopic tensegrity patterns propagate down to affect cells in clinically meaningful ways. The biotensegrity literature frames fascial disruption as a "potential multi-scale pathway linking tissue injury to cellular responses and potentially chronic dysfunction." I haven't found studies that directly test this causal chain in humans, which is part of why I find it worth watching.
+
+## The Craniofacial Example
+
+The craniofacial complex offers a concrete example of how tensegrity principles play out developmentally, and how structural compromise ramifies through multiple systems.
+
+The maxilla, the bone forming the upper jaw and mid-face, articulates with eleven other cranial bones and influences the position of all the others. It functions as something like a keystone. Its development shapes the entire cranial architecture, and because the head sits atop the spine, cranial architecture affects whole-body posture.
+
+The maxilla forms the floor of the nasal cavity and the roof of the mouth. Its width and forward position determine airway volume. Underdevelopment of the maxilla is associated with narrowed airways, sleep-disordered breathing, and compensatory postural changes that cascade through the cervical spine and beyond. Research has found correlations between craniocervical angle and patterns of facial growth, suggesting bidirectional relationships between cranial structure and spinal posture.
+
+The mainstream framework for understanding maxillary development is Melvin Moss's Functional Matrix Theory: bone growth responds to the functional demands of surrounding soft tissues. Nasal breathing stimulates lateral maxillary growth; mouth breathing does not. Proper tongue posture and chewing forces shape palatal width. The mechanical environment during development determines adult structure.
+
+Contemporary research suggests that facial narrowing and dental crowding have increased substantially in recent generations. The features, including lengthening of the face and posterior rotation of the mandible, are attributed to modern environmental influences rather than genetic drift. The specific mechanisms remain debated (reduced chewing forces, increased mouth breathing, dietary factors), but the pattern suggests developmental plasticity responding to altered mechanical inputs.
+
+This is where the systemic nature of structural coherence becomes visible. Maxillary underdevelopment restricts the airway, which affects sleep quality, which affects metabolic and cognitive function. It alters head posture, which affects cervical spine loading. The maxilla's connection with the sphenoid bone, which houses the pituitary and hypothalamus, raises questions about whether cranial architecture might influence endocrine function through mechanical pathways.
+
+If biotensegrity operates at the whole-body level, a well-developed maxilla signals that the tensional network developed under appropriate mechanical loading. The narrow faces and recessed jaws increasingly common in modern populations might indicate disrupted mechanical signals during development.
+
+# Medium: The Extracellular Matrix and Interstitium
+
+Cranial architecture also affects fluid dynamics: the skull's structure influences drainage pathways for cerebrospinal fluid and lymph. Restricted cranial development may impair the glymphatic system's ability to clear metabolic waste from the brain during sleep. This points toward a different level of analysis: the extracellular environment where cells actually operate.
+
+If tensegrity describes the body's structural architecture, the extracellular matrix (ECM) and interstitial fluid describe the medium through which structural problems reach cells.
+
+In 2018, researchers at NYU including Neil Theise published findings on the interstitium, a network of fluid-filled spaces supported by collagen bundles found throughout the body. What had appeared as dense connective tissue on microscope slides turned out to be an artifact of tissue preparation. Examined in living tissue, these spaces revealed themselves as an interconnected fluid system. Follow-up work in 2021 demonstrated that interstitial spaces appear continuous across tissue and organ boundaries, suggesting the interstitium may function as an integrated network throughout the body.
+
+Whether this anatomical finding changes our physiological understanding remains to be seen, but it's suggestive of the kind of interconnected fluid system that would matter for the questions I'm asking.
+
+Cells don't exist in isolation. They're bathed in interstitial fluid, and the composition and flow characteristics of that fluid affect signaling. The ECM functions as both structural scaffolding and an information-rich environment. Its mechanical properties, particularly stiffness, influence cell behavior through mechanotransduction. Cells sense matrix stiffness through integrins and respond by altering gene expression, differentiation, and migration.
+
+Research on ECM dynamics increasingly shows that mechanical properties of the matrix can actively drive cellular behavior, including pathological behavior. In fibrosis, matrix stiffening promotes further fibroblast activation, creating feedback loops that perpetuate pathology. A 2018 review put it directly: "Matrix stiffness, traditionally viewed as an end point of organ fibrosis, is now recognized as a critical regulator of tissue fibrogenesis that hijacks the normal physiologic wound-healing program to promote organ fibrosis."
+
+The question I'm circling is whether "matrix coherence," some combination of proper fluid flow, appropriate stiffness, and chemical purity, might be a precondition for cells receiving accurate signals about their environment. Matrix disruption, whether through fibrotic stiffening or impaired flow, might create noise that interferes with normal cellular function.
+
+This connects to my interest in [tissue surveillance of persistent toxicants]({{< ref "/posts/tissue-surveillance-of-persistent-toxicants.md" >}}). If the interstitial space is where cells receive their environmental signals, then what accumulates there matters enormously. Lipophilic compounds and heavy metals that sequester in tissues rather than circulating in blood might exert their effects partly by altering the chemical and mechanical properties of the matrix. And the body's ability to clear these substances depends on fluid dynamics, on flow through interstitial spaces and drainage through lymphatic pathways. Structural compromise, by impairing these flows, might contribute to toxicant retention, creating another feedback loop.
+
+# Response: The Cell Danger Response
+
+The final link in the chain involves how cells translate environmental conditions into metabolic states. Robert Naviaux's work on the Cell Danger Response (CDR) at UC San Diego offers one framework.
+
+Naviaux proposes that mitochondria function as environmental sensors. When they detect threats, whether chemical, microbial, or mechanical, they shift cellular metabolism from energy production toward defense. This makes sense as an acute response to injury or infection. The problem arises when the response becomes chronic.
+
+In Naviaux's model, persistent CDR activation creates a hypometabolic state characterized by fatigue, inflammation, and impaired healing. The CDR unfolds in phases: initial reduction of internal ATP production while ATP is released extracellularly as a danger signal, subsequent cellular repair phases, and eventually restoration of normal function. If something prevents progression through these phases, cells remain stuck in a defensive posture.
+
+Naviaux has applied this framework to conditions from chronic fatigue syndrome to autism to long COVID. In a 2024 review of ME/CFS research, he noted that findings of a hypermetabolic to hypometabolic switch in chronic fatigue patients fit his hypothesis: "In the patients who develop ME/CFS, Long-COVID, and many other hypometabolic, multi-system, chronic fatigue syndromes, mitochondria and cells enter a chronic, but reversible physiologic state that protects the patient and cells from new injuries and chronic threat, but at the expense of a dramatic decrease in functional capacity."
+
+The word "reversible" matters. Naviaux frames chronic illness as a protective state that persists because conditions for exiting haven't been met. The body is waiting for an "all clear" signal that never comes.
+
+Here's where the chain closes. If mitochondria monitor the cellular environment for danger, what signals are they reading? Naviaux emphasizes chemical and microbial threats. Mechanotransduction research suggests cells also read mechanical cues. A stiffened or congested matrix might register as a threat signal. Loss of tensional integrity might create mechanical stress that cells interpret as danger.
+
+The signaling pathway might work something like this: structural compromise alters force distribution through the tensegrity network; altered forces change the mechanical properties of the matrix locally (perhaps through fibroblast activation and collagen remodeling); cells embedded in that matrix sense the altered stiffness through integrins; integrin signaling affects mitochondrial function; mitochondria initiate CDR.
+
+I should be clear that this specific pathway is speculation. There's evidence for each link (mechanotransduction affects cell behavior, matrix stiffness influences gene expression, mechanical stress can affect mitochondria), but I haven't found research that traces this particular chain from postural disruption to CDR activation. It's a hypothesis, not a finding.
+
+Naviaux himself connects CDR to environmental health, noting that mitochondria "regulate the CDR by monitoring and responding to the physical, chemical, and microbial conditions within and around the cell. In this way, mitochondria connect cellular health to environmental health." The physical conditions he mentions could include mechanical signals transmitted through the matrix from the tensegrity system.
+
+# Coherence as an Integrated State
+
+Biological coherence, then, is what you have when the following conditions are met (of course, there are many more necessary conditions, this is just one important sample):
+
+- The tensegrity system developed under appropriate mechanical loading and maintains proper force distribution
+- The extracellular matrix has appropriate stiffness and supports healthy fluid flow
+- Interstitial spaces remain clear of accumulated toxicants
+- Cells receive accurate signals about their environment and can complete stress response cycles normally
+
+Incoherence is what happens when any part of this chain breaks down. And because the system is interconnected, disruption tends to propagate. Structural problems create matrix problems create cellular problems create metabolic problems, and the metabolic problems (fatigue, inflammation, impaired healing) may further compromise structure and matrix, closing feedback loops that maintain dysfunction.
+
+This framing also suggests why coherence might be difficult to restore through interventions targeting only one node. If you address CDR without fixing the upstream structural and matrix problems, cells may have good reason to remain in defensive mode. If you address structure without clearing accumulated toxicants, the matrix environment may still signal danger. Coherence might require addressing multiple nodes simultaneously, which could explain why chronic conditions often prove resistant to single-target therapies.
+
+# Where This Stands
+
+I want to be honest about the epistemic status of what I've laid out.
+
+**Well-established:** Cellular mechanotransduction is validated. Cells demonstrably sense and respond to mechanical forces, and the molecular pathways are increasingly well-characterized. Matrix stiffness affects cell behavior in culture and in specific disease contexts.
+
+**Empirically supported but newer:** The interstitium research is recent but peer-reviewed and generating follow-up work. The association between facial structure and airway function is documented, though broader claims about systemic effects are still being investigated.
+
+**Legitimate hypothesis, not consensus:** Naviaux's CDR framework is published in journals like Mitochondrion, but it remains a hypothesis. He's conducted small clinical trials with promising results, but larger studies are needed.
+
+**My speculation:** The connections between these domains, the specific causal chain I've proposed, is my own attempt at synthesis. Of course, I am not claiming any degree of truth here, only plausibility and that more investigation is needed.
+
+What I'm looking for as I continue exploring:
+
+**Disconfirming evidence.** What findings would suggest tensegrity doesn't affect cellular mechanotransduction at clinically relevant scales? What would indicate matrix properties don't influence metabolic signaling? If such evidence exists, I want to know.
+
+**Direct tests of any link.** Are there studies examining whether postural interventions affect matrix properties? Whether matrix-targeted therapies affect fatigue or inflammation? Whether structural normalization (orthodontic expansion, for instance) affects downstream markers I'd predict it should?
+
+**The reversibility question.** If CDR is reversible, but structural compromise persists, what happens? Can you exit CDR through metabolic intervention alone, or does the structure keep triggering it? This seems empirically testable and central to whether the model is useful.
+
+**Alternative explanations.** If chronic fatigue isn't a stuck CDR, what is it? If facial structure changes aren't driven by mechanical environment, what's causing them? I want to understand competing models, not just find support for this one.
+
+I'll update this post as I learn more. If you have expertise in any of these areas and see errors in my understanding, or if you know of research that tests any of these connections, I'd welcome the input.
