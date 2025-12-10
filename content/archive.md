@@ -1,6 +1,8 @@
 ---
 title: "Archive"
-layout: "archive"
+layout: "archives"
+url: "/archive/"
+summary: "archives"
 type: "page"
 
 ---
