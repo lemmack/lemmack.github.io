@@ -6,6 +6,10 @@ draft: false
 
 # Introduction
 
+Brief definitions: 
+* *Persistant toxicants* are chemicals that resist breakdown and clearance in the body and can accumulate over years or decades. 
+* *Total body burden* is the amount of these toxicants stored in all tissues, not just what happens to be ciruclating on the day  you draw blood.
+
 There's a gap in public health surveillance that I believe will eventually have to be addressed if we want the march of progress in population health to continue. Current surveillance relies heavily on biological fluids (blood serum and urine) to monitor population exposure to environmental contaminants. While these matrices effectively capture recent exposures and water-soluble compounds, they frequently fail to reflect the total body burden of persistent toxicants.
 
 This gap exists because many critical pollutants do not remain in circulation; they sequester in specific tissue compartments over a lifetime, and they can be tricky to measure. Lipophilic compounds like PCBs and pesticides partition into adipose tissue, mercury builds up in nervous tissue, lead accumulates in the skeleton, and so on. Consequently, relying solely on fluid biomonitoring creates a pharmacokinetic blind spot, risking a significant underestimation of the toxicological drivers behind chronic diseases, and especially those with long latency periods such as neurodegenerative disorders and renal pathology.
@@ -65,7 +69,7 @@ This would require sustained public communication about the purpose and value of
 
 To progress public health surveillance, we must move beyond the snapshot provided by blood samples and access the archive stored in tissues. This does not require a return to widely practiced complete autopsies. The emergence of Minimally Invasive Tissue Sampling (MITS), which utilizes needle biopsies to collect samples from key organs, offers a scalable, cost-effective, and culturally acceptable alternative. MITS is currently being used mostly for post-mortem analysis of infectious cases, but in theory could be adapted to analysis of persistent toxicants with a little ingenuity.
 
-Scaling MITS for toxicological surveillance does face one significant operational hurdle: the 'fixative' problem. Standard MITS protocols, like those used in infectious disease, typically rely on formalin-fixed paraffin-embedded (FFPE) tissues. While excellent for preserving cell structure for microscopes, formalin can cross-link proteins and even contaminate samples with trace metals, rendering them less ideal for precise chemical analysis.
+The biggest catch is sample preservation. MITS protocols in infectious disease often rely on formalin-fixed paraffin-embedded tissue, which is excellent for histology but often hostile to trace chemical measurement. If tissue surveillance is going to work for persistent toxicants, the preservation method becomes the central engineering constraint, and it drives a lot of downstream design choices.
 
 A dedicated 'MITS-Tox' protocol would likely require fresh-frozen samples. This introduces a cold-chain logistics challenge, as biopsy cores would need to be flash-frozen in liquid nitrogen or stored at -80°C immediately after collection. While more demanding than a jar of formalin, this infrastructure already exists in many biobanks and research hospitals; it simply needs to be standardized for the field.
 
@@ -73,7 +77,7 @@ By integrating toxicological screening into MITS protocols, epidemiological data
 
 ## The Engineering Challenge: Chemical Purity vs. Preservation
 
-Scaling MITS for toxicological surveillance faces a significant operational hurdle: the 'fixative' problem. Standard protocols rely on formalin-fixed paraffin-embedded (FFPE) tissues. While formalin is excellent for preserving visual structure for pathologists, it is often fatal for analytical chemists trying to measure trace concentrations of toxicants.
+This is the core tradeoff: pathology wants structural preservation, while exposure science needs chemical fidelity. At parts-per-billion, the preservation method can easily become the dominant signal, which is why the following details matter greatly.
 
 To accurately quantify the body burden of a pollutant, the sample must remain chemically pristine. Formalin introduces three major sources of error.
 
