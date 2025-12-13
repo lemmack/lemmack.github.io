@@ -1,6 +1,6 @@
 ---
 title: "Therapeutic Trembling to Release Trauma"
-date: 2025-12-13 14:02:51-05:00
+date: 2025-12-13T14:02:51-05:00
 draft: false
 ---
 
