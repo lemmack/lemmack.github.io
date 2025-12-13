@@ -14,7 +14,11 @@ enableGitInfo = true
   ShowAllPagesInArchive = true
   mainSections = ["posts"]
   DateFormat = "Jan 2, 2006"
-  
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/MacklemCurtis"
+
   [params.profileMode]
     enabled = true
     title = "Thinking out loud about human health"
