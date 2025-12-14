@@ -10,13 +10,13 @@ Aaron Antonovsky's concept of salutogenesis has always struck me as underexplore
 
 Medicine has mapped the pathways of pathogenesis with remarkable precision. We understand, in molecular detail, how things go wrong. The origins of health, the conditions under which the body actively thrives rather than merely avoids disease, remain fuzzier. I've been reading across several fields trying to understand whether there's a physiological foundation for coherence, and I want to sketch a speculative model that connects them.
 
-The model, stated simply: developmental and environmental insults compromise the body's structural architecture, which impairs the extracellular environment where cells operate, which causes cells to mount chronic stress responses they cannot exit. Biological coherence is what you have when this chain is intact. Incoherence is what you get when it breaks down at any point.
+The model, stated simply: developmental and environmental insults compromise the body's structural architecture, which impairs the extracellular environment where cells operate, which causes cells to mount chronic stress responses they cannot exit. If something like this is happening, biological coherence would be what you have when the pathway is intact, and incoherence what you get when it breaks down at any point.
 
 I want to be clear about what follows. I'm not actively doing research in any of these fields. I have a background in public health and health science, and an interest in how disparate ideas might connect. Each domain I'll discuss has empirical support, though they vary in how well-established they are. The connections between them are my own speculation. I'm writing this to see whether the model holds up to scrutiny, and I expect to revise it as I learn more.
 
-# The Chain
+# A Proposed Pathway
 
-Here's the causal pathway I'm tentatively proposing:
+Here's one way the causal pathway might work:
 
 1. **Developmental and environmental insult.** The body develops under suboptimal mechanical conditions (mouth breathing, soft foods, physical injury, restricted movement, sitting in chairs) and/or chemical exposure (persistent organic pollutants, heavy metals, other toxicants).
 
@@ -54,7 +54,7 @@ The mainstream framework for understanding maxillary development is Melvin Moss'
 
 Contemporary research suggests that facial narrowing and dental crowding have increased substantially in recent generations. The features, including lengthening of the face and posterior rotation of the mandible, are attributed to modern environmental influences rather than genetic drift. The specific mechanisms remain debated (reduced chewing forces, increased mouth breathing, dietary factors), but the pattern suggests developmental plasticity responding to altered mechanical inputs.
 
-This is where the systemic nature of structural coherence becomes visible. Maxillary underdevelopment restricts the airway, which affects sleep quality, which affects metabolic and cognitive function. It alters head posture, which affects cervical spine loading. The maxilla's connection with the sphenoid bone, which houses the pituitary and hypothalamus, raises questions about whether cranial architecture might influence endocrine function through mechanical pathways.
+This is where the systemic implications of structural coherence would start to matter, if the model holds. Maxillary underdevelopment restricts the airway, which affects sleep quality, which affects metabolic and cognitive function. It alters head posture, which affects cervical spine loading. The maxilla's connection with the sphenoid bone, which houses the pituitary and hypothalamus, raises questions about whether cranial architecture might influence endocrine function through mechanical pathways.
 
 If biotensegrity operates at the whole-body level, a well-developed maxilla signals that the tensional network developed under appropriate mechanical loading. The narrow faces and recessed jaws increasingly common in modern populations might indicate disrupted mechanical signals during development.
 
@@ -80,15 +80,16 @@ This connects to my interest in [tissue surveillance of persistent toxicants]({{
 
 The final link in the chain involves how cells translate environmental conditions into metabolic states. [Robert Naviaux's work](https://naviauxlab.ucsd.edu/science-item/chronic-fatigue-syndrome-research/) on the Cell Danger Response (CDR) at UC San Diego offers one framework.
 
-Naviaux proposes that mitochondria function as environmental sensors. When they detect threats, whether chemical, microbial, or mechanical, they shift cellular metabolism from energy production toward defense. This makes sense as an acute response to injury or infection. The problem arises when the response becomes chronic.
+In Naviaux's framework, mitochondria function as environmental sensors. When they detect threats, whether chemical, microbial, or mechanical, cells shift their metabolism from energy production toward defense. This would make sense as an acute response to injury or infection. The problem, in his model, arises when the response becomes chronic.
+Naviaux proposes that persistent CDR activation creates a hypometabolic state characterized by fatigue, inflammation, and impaired healing.
 
-In Naviaux's model, persistent CDR activation creates a hypometabolic state characterized by fatigue, inflammation, and impaired healing. The CDR unfolds in phases: initial reduction of internal ATP production while ATP is released extracellularly as a danger signal, subsequent cellular repair phases, and eventually restoration of normal function. If something prevents progression through these phases, cells remain stuck in a defensive posture.
+The CDR unfolds in phases: initial reduction of internal ATP production while ATP is released extracellularly as a danger signal, subsequent cellular repair phases, and eventually restoration of normal function. If something prevents progression through these phases, cells remain stuck in a defensive posture.
 
 Naviaux has applied this framework to conditions from chronic fatigue syndrome to autism to long COVID. His research characterizes ME/CFS as a hypometabolic state where mitochondria and cells enter what he describes as "a chronic, but reversible physiologic state that protects the patient and cells from new injuries and chronic threat, but at the expense of a dramatic decrease in functional capacity."
 
 The word "reversible" matters. Naviaux frames chronic illness as a protective state that persists because conditions for exiting haven't been met. The body is waiting for an "all clear" signal that never comes.
 
-Here's where the chain closes. If mitochondria monitor the cellular environment for danger, what signals are they reading? Naviaux emphasizes chemical and microbial threats. Mechanotransduction research suggests cells also read mechanical cues. A stiffened or congested matrix might register as a threat signal. Loss of tensional integrity might create mechanical stress that cells interpret as danger.
+This is where the proposed pathway might connect back to structure. If mitochondria monitor the cellular environment for danger, what signals are they reading? Naviaux emphasizes chemical and microbial threats. Mechanotransduction research suggests cells also read mechanical cues. A stiffened or congested matrix might register as a threat signal. Loss of tensional integrity might create mechanical stress that cells interpret as danger.
 
 The signaling pathway might work something like this: structural compromise alters force distribution through the tensegrity network; altered forces change the mechanical properties of the matrix locally (perhaps through fibroblast activation and collagen remodeling); cells embedded in that matrix sense the altered stiffness through integrins; integrin signaling affects mitochondrial function; mitochondria initiate CDR.
 
@@ -98,16 +99,16 @@ Naviaux himself connects CDR to environmental health. In a [2020 paper](https://
 
 # Coherence as an Integrated State
 
-Biological coherence, then, might be defined as what you have when the following conditions are met (of course, there are many more necessary conditions, this is just one important sample):
+If something like this model is correct, biological coherence might be understood as what you have when the following conditions are met (of course, there are many more necessary conditions, and this is just one possible framing):
 
 - The tensegrity system developed under appropriate mechanical loading and maintains proper force distribution
 - The extracellular matrix has appropriate stiffness and supports healthy fluid flow
 - Interstitial spaces remain clear of accumulated toxicants
 - Cells receive accurate signals about their environment and can complete stress response cycles normally
 
-Incoherence is what happens when any part of this chain breaks down. And because the system is interconnected, disruption tends to propagate. Structural problems create matrix problems create cellular problems create metabolic problems, and the metabolic problems (fatigue, inflammation, impaired healing) may further compromise structure and matrix, closing feedback loops that maintain dysfunction.
+Incoherence, in this framing, is what happens when any part of the pathway breaks down. And if the system is interconnected in roughly this way, disruption would tend to propagate. Structural problems create matrix problems create cellular problems create metabolic problems, and the metabolic problems (fatigue, inflammation, impaired healing) may further compromise structure and matrix, closing feedback loops that maintain dysfunction.
 
-This framing also suggests why coherence might be difficult to restore through interventions targeting only one node. If you address CDR without fixing the upstream structural and matrix problems, cells may have good reason to remain in defensive mode. If you address structure without clearing accumulated toxicants, the matrix environment may still signal danger. Coherence might require addressing multiple nodes simultaneously, which could explain why chronic conditions often prove resistant to single-target therapies.
+This framing, if accurate, might help explain why coherence could be difficult to restore through interventions targeting only one node. If you address CDR without fixing the upstream structural and matrix problems, cells may have good reason to remain in defensive mode. If you address structure without clearing accumulated toxicants, the matrix environment may still signal danger. Coherence might require addressing multiple nodes simultaneously, which could explain why chronic conditions often prove resistant to single-target therapies.
 
 # Where This Stands
 
