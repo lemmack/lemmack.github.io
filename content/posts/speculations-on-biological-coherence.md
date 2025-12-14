@@ -18,11 +18,11 @@ I want to be clear about what follows. I'm not actively doing research in any of
 
 Here's the causal pathway I'm tentatively proposing:
 
-1. **Developmental and environmental insult.** The body develops under suboptimal mechanical conditions (mouth breathing, soft foods, restricted movement, sitting in chairs) and/or chemical exposure (persistent organic pollutants, heavy metals, other toxicants).
+1. **Developmental and environmental insult.** The body develops under suboptimal mechanical conditions (mouth breathing, soft foods, physical injury, restricted movement, sitting in chairs) and/or chemical exposure (persistent organic pollutants, heavy metals, other toxicants).
 
-2. **Structural compromise.** The biotensegrity system, the continuous tension network of fascia, tendons, and ligaments within which bones float as compression elements, develops with suboptimal geometry. The architecture is off. The forces are not well distributed and the space within the system is compromised.
+2. **Structural compromise.** The biotensegrity system, the continuous tension network of fascia, tendons, and ligaments within which bones float as compression elements, develops with suboptimal geometry. The architecture is off. The forces are not well distributed and the spaces within the system are compromised.
 
-3. **Matrix dysfunction.** Compromised architecture means impaired fluid flow through interstitial spaces, altered mechanical properties of the extracellular matrix, and potentially accumulation of toxicants that the system cannot clear efficiently.
+3. **Matrix dysfunction.** Compromised architecture means impaired fluid flow through interstitial spaces, altered mechanical properties of the extracellular matrix, and potentially accumulation of exogenous and endogenous toxicants that the system cannot clear efficiently.
 
 4. **Aberrant cellular signaling.** Cells receive distorted mechanical and chemical signals from their environment. The matrix is too stiff, or too congested, or chemically polluted.
 
@@ -131,4 +131,4 @@ What I'm looking for as I continue exploring:
 
 **Alternative explanations.** If chronic fatigue isn't a stuck CDR, what is it? If facial structure changes aren't driven by mechanical environment, what's causing them? I want to understand competing models, not just find support for this one.
 
-I'll update this post as I learn more. If you have expertise in any of these areas and see errors in my understanding, or if you know of research that tests any of these connections, I'd welcome the input.
+I'll update this post as I learn more. If you have expertise in any of these areas and see errors in my understanding, or if you know of research that tests any of these connections, I'd welcome the input (one way of contacting me is on X: [@MacklemCurtis](https://x.com/MacklemCurtis)).
