@@ -7,17 +7,29 @@ draft: false
 # Introduction
 
 In the 1970s, the medical sociologist Aaron Antonovsky was studying the health of women who had survived Nazi concentration camps. What struck him was that a meaningful minority of survivors, despite having endured conditions designed to destroy them, maintained good physical and mental health decades later. The conventional medical question would be: what pathological processes explain illness in survivors? Antonovsky asked something different: what explains health in people who have every reason to be unwell?
+
 This question led him to develop the concept of salutogenesis, the study of the origins of health, as a complement to pathogenesis, the study of disease. His central finding was that people who remained healthy despite adversity tended to share what he called a Sense of Coherence (SOC): a global orientation toward life characterized by three components. Comprehensibility: the sense that events are ordered, predictable, and explicable rather than chaotic and random. Manageability: the belief that one has the resources to meet life's demands. Meaningfulness: the feeling that life's challenges are worth engaging with.
+
 Antonovsky's framework has always struck me as underexplored. It's well-validated psychometrically (the SOC scale predicts health outcomes across populations), but it raises a question that remains unanswered: is coherence purely psychological, or does it have a biological substrate we can actually point to?
+
 Medicine has mapped the pathways of pathogenesis with remarkable precision. We understand, in molecular detail, how things go wrong. The origins of health, the conditions under which the body actively thrives rather than merely avoids disease, remain fuzzier. I've been reading across several fields trying to understand whether there's a physiological foundation for coherence, and I want to sketch a speculative model that connects them.
+
 Where Antonovsky described coherence as a psychological orientation, I want to explore whether something analogous might exist at the level of the body itself. Call it Biological Coherence: a state in which every component of the body performs its proper function while simultaneously supporting the function of every other component. The lungs oxygenate blood, but they also participate in fluid balance and immune surveillance. The liver metabolizes toxins, but it also produces proteins that affect every tissue. In a coherent system, each part does its own work in a way that minimizes interference with other parts and maximizes contribution to the whole.
+
 This is related to concepts like "synergy" or "integrity," but I want to be specific about what I mean. Biological Coherence, as I'm using the term, involves several conditions:
+
 **Proper placement.** Everything is where it should be. Structures developed in their correct positions and orientations. Substances exist in the compartments and concentrations where they belong.
+
 **Absence of interference.** Nothing is present that disrupts the function of other components. No accumulated toxicants altering cellular signaling. No structural distortions creating aberrant mechanical forces. No persistent inflammation hijacking metabolic resources.
+
 **Functional reciprocity.** Each component's activity supports the activities of others. The circulatory system delivers what tissues need and removes what they produce. The nervous system coordinates timing across organs. The extracellular matrix transmits mechanical signals faithfully.
+
 When these conditions are met, the system operates with minimal internal friction. When they break down, components begin working at cross-purposes, or fail to support each other, or actively interfere with each other's function.
+
 The question I keep returning to is whether Antonovsky's psychological coherence might rest on something like this biological coherence. Perhaps the sense that life is comprehensible, manageable, and meaningful is easier to maintain when the body itself is operating as an integrated whole, when cells are receiving accurate signals about their environment, when metabolic resources aren't depleted by chronic defensive responses. This isn't to reduce psychology to physiology, but to ask whether they might be two levels of description of something related.
+
 The model I want to explore, stated simply: developmental and environmental insults compromise the body's structural architecture, which impairs the extracellular environment where cells operate, which causes cells to mount chronic stress responses they cannot exit. If something like this is happening, biological coherence would be what you have when the pathway is intact, and incoherence what you get when it breaks down at any point.
+
 I want to be clear about what follows. I'm not actively doing research in any of these fields. I have a background in public health and health science, and an interest in how disparate ideas might connect. Each domain I'll discuss has empirical support, though they vary in how well-established they are. The connections between them are my own speculation. I'm writing this to see whether the model holds up to scrutiny, and I expect to revise it as I learn more.
 
 # A Proposed Pathway
