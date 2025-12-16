@@ -8,13 +8,15 @@ draft: false
 
 After escaping a vicious predator attack, a gazelle doesn't resume grazing. It trembles. Its whole body shakes violently for several minutes before it returns to baseline calm. This phenomenon, documented across mammalian species, represents something more than residual fear. It appears to be a biological mechanism for completing the stress response cycle and discharging the massive neurochemical mobilization required for survival.
 
+Note: This observation, while widely cited in the somatic therapy literature, is more anecdotal than rigorously documented. Scientific study of wild animals' post-threat behavior is methodologically challenging, and claims about PTSD-like symptoms (or their absence) in wildlife largely rely on behavioral inference rather than controlled measurement.
+
 Humans possess this same tremoring capacity. Yet we rarely allow it to complete. Social conditioning, neocortical override, and the simple fear of appearing "out of control" lead us to suppress these involuntary movements. The hypothesis underlying a growing field of somatic therapies is that this suppression carries a cost: the incomplete discharge of survival energy may contribute to the constellation of symptoms we recognize as post-traumatic stress, chronic tension, and dysregulated arousal.
 
 This piece examines the therapeutic modalities that have emerged to reclaim this ancient biological reset mechanism, from clinically-developed protocols to traditional practices that have utilized shaking for millennia.
 
 # The Premise: Trauma as Incomplete Motor Response
 
-The conceptual foundation shared across these modalities is that trauma is not merely a psychological event but a physiological one. When threat triggers the fight-or-flight response, the body mobilizes enormous resources: catecholamines flood the system, blood shunts to skeletal muscles, and motor plans for defensive action begin firing. If these responses are thwarted (by physical restraint, overwhelming force, or developmental powerlessness), the mobilized energy has nowhere to go.
+The conceptual foundation shared across these modalities is that trauma is as much a physiological event as a psychological one. When threat triggers the fight-or-flight response, the body mobilizes enormous resources: catecholamines flood the system, blood shunts to skeletal muscles, and motor plans for defensive action begin firing. If these responses are thwarted (by physical restraint, overwhelming force, or developmental powerlessness), the mobilized energy has nowhere to go.
 
 Dr. Peter Levine, developer of Somatic Experiencing, characterizes this as an "incomplete motor plan" in his foundational text [Waking the Tiger](https://www.northatlanticbooks.com/shop/waking-the-tiger-healing-trauma/). The neural instructions to run, kick, or scream continue firing in the brainstem, but motor output is inhibited. This creates what some clinicians describe as a state of "high-energy co-activation": one foot on the accelerator (sympathetic charge) and one on the brake (parasympathetic immobilization).
 
@@ -36,7 +38,7 @@ Traditional practices also occupy this landscape. [Qigong shaking exercises](htt
 
 # Proposed Mechanisms
 
-Several physiological pathways may explain why inducing tremors could resolve chronic tension and traumatic stress:
+Multiple physiological systems may contribute to the therapeutic effects of induced tremoring. These mechanisms are neither mutually exclusive nor definitively established; rather, they represent converging lines of evidence that may explain why diverse tremoring modalities produce overlapping clinical effects.
 
 **Central Pattern Generators (CPGs)**: These neuronal circuits in the spinal cord and brainstem can produce rhythmic motor patterns without cortical input. Originally demonstrated by [Thomas Graham Brown in 1911](https://www.sciencedirect.com/science/article/pii/S0165017308000672) through experiments showing that cats with severed descending inputs and sensory feedback could still produce rhythmic stepping, CPGs have since been [confirmed across all vertebrate species](https://doi.org/10.3389/fneur.2012.00183) from lampreys to humans.
 
@@ -48,8 +50,9 @@ The hypothesis that neurogenic tremors may be mediated by CPGs is speculative bu
 
 Fascia contains four types of mechanoreceptors responsive to mechanical stimulation: Golgi organs, Ruffini receptors, Pacini corpuscles, and interstitial receptors. Approximately [80% of sensory nerve endings](https://doi.org/10.1016/S1360-8592(02)00067-0) in fascial tissues are free nerve endings. Of these, 90% are connected to slowly conducting unmyelinated C-fiber neurons. Functional MRI studies have shown that stimulation of these C-fiber neurons [activates the insular cortex](https://doi.org/10.1016/B978-0-7020-3425-1.00047-7) rather than the primary somatosensory cortex, indicating a clear interoceptive role. This anatomical arrangement suggests fascia plays a significant role in interoception, the sense of the body's internal state that is increasingly linked to emotional processing and trauma.
 
-Research has demonstrated that people with chronic lower back pain have fascia that shows approximately [20% reduced shear strain (gliding ability)](https://doi.org/10.1186/1471-2474-12-203) in the lumbar and thoracic spine, and they also show poorer proprioception. Chronic sympathetic activation leads to fascial densification through [cytokine signaling, particularly TGF-beta-1](https://doi.org/10.2741/870), potentially distorting interoceptive signals to the insular cortex. Vibration and trembling may help restore fascial hydration and improve interoceptive accuracy.
+The therapeutic relevance for trembling lies in how these receptors respond to mechanical input. Rhythmic oscillation may stimulate Pacini corpuscles and Ruffini endings in ways that modulate fascial tone and improve gliding between tissue layers. A recent scoping review found that fascia manipulation exerts therapeutic effects through "mechanoreceptor stimulation, and improvement in fascial gliding and proprioceptive feedback" ([Isaji et al., 2025](https://pubmed.ncbi.nlm.nih.gov/40368128/)). If chronic stress creates fascial densification that distorts interoceptive signaling, sustained rhythmic movement may help reverse this pattern.
 
+Research has demonstrated that people with chronic lower back pain have fascia that shows approximately [20% reduced shear strain (gliding ability)](https://doi.org/10.1186/1471-2474-12-203) in the lumbar and thoracic spine, and they also show poorer proprioception. Chronic sympathetic activation leads to fascial densification through [cytokine signaling, particularly TGF-beta-1](https://doi.org/10.2741/870), potentially distorting interoceptive signals to the insular cortex. Vibration and trembling may help restore fascial hydration and improve interoceptive accuracy.
 
 # Evidence Status
 
@@ -87,7 +90,7 @@ This controversy matters for clinical practice because many somatic trauma thera
 
 **Contraindications**: These modalities are not universally appropriate. Reported contraindications include pregnancy, epilepsy, recent surgery, active psychosis, and unstable cardiovascular conditions. For WBV specifically, pacemakers represent a concern.
 
-**Evidence limitations**: Most studies remain small, often lack active control conditions, and follow-up periods are typically brief. The field awaits larger-scale trials comparing these approaches directly against established treatments.
+**Evidence limitations**: Most studies remain small, often lack active control conditions, and follow-up periods are typically brief. The field awaits larger-scale trials comparing these approaches directly against established treatments. The Brom et al. study explicitly concludes that "further research is needed to understand who shall benefit most from this treatment modality." No published studies have systematically examined predictors of differential response across somatic modalities, leaving clinicians without guidance on matching patients to approaches.
 
 # Preliminary Synthesis
 
@@ -97,4 +100,4 @@ Whether accessed through structured exercises, guided somatic awareness, mechani
 
 The evidence is early but accumulating. The theoretical frameworks remain contested but clinically useful. The risks are real but manageable with appropriate titration and screening.
 
-For those interested in exploring this territory, the prudent path involves starting small, seeking qualified guidance, and maintaining appropriate skepticism while remaining open to what the body may know that the mind has forgotten.
+For those interested in exploring this territory, the prudent path involves starting small, seeking qualified guidance, and maintaining appropriate skepticism. The central unanswered question remains whether induced tremoring produces effects meaningfully different from other interventions that combine physical activation with interoceptive attention, or whether the tremor itself is the active ingredient. Until comparative trials address this directly, the mechanism remains as uncertain as the clinical outcomes are promising.
