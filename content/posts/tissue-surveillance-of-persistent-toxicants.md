@@ -7,14 +7,16 @@ draft: false
 # Introduction
 
 Brief definitions: 
-* *Persistant toxicants* are chemicals that resist breakdown and clearance in the body and can accumulate over years or decades. 
-* *Total body burden* is the amount of these toxicants stored in all tissues, not just what happens to be ciruclating on the day  you draw blood.
+* *Persistent toxicants* are chemicals that resist breakdown and clearance in the body and can accumulate over years or decades. 
+* *Total body burden* is the amount of these toxicants stored in all tissues, not just what happens to be circulating on the day you draw blood.
 
 There's a gap in public health surveillance that I believe will eventually have to be addressed if we want the march of progress in population health to continue. Current surveillance relies heavily on biological fluids (blood serum and urine) to monitor population exposure to environmental contaminants. While these matrices effectively capture recent exposures and water-soluble compounds, they frequently fail to reflect the total body burden of persistent toxicants.
 
 This gap exists because many critical pollutants do not remain in circulation; they sequester in specific tissue compartments over a lifetime, and they can be tricky to measure. Lipophilic compounds like PCBs and pesticides partition into adipose tissue, mercury builds up in nervous tissue, lead accumulates in the skeleton, and so on. Consequently, relying solely on fluid biomonitoring creates a pharmacokinetic blind spot, risking a significant underestimation of the toxicological drivers behind chronic diseases, and especially those with long latency periods such as neurodegenerative disorders and renal pathology.
 
 Recent post-mortem analyses underscore the urgency of addressing this gap. [Studies have confirmed](https://doi.org/10.1021/acs.est.4c09458) the presence of per- and polyfluoroalkyl substances (PFAS a.k.a. "forever chemicals") in human brain tissue, adding quantitative evidence to growing concerns about blood-brain barrier penetration by these compounds. Furthermore, [the detection of black carbon](https://doi.org/10.1186/s12989-018-0250-8) in airway macrophages serves as a dosimeter for lifetime particulate exposure that ambient air monitors cannot replicate. These findings suggest that the body acts as a historical archive, recording exposures that fluid analysis misses entirely.
+
+The emerging concern over microplastics provides another illustration. A [2025 study in Nature Medicine](https://doi.org/10.1038/s41591-024-03453-1) comparing autopsy samples from 2016 and 2024 found that plastic concentrations in human brain tissue increased by approximately 50% over just eight years, with brain samples containing 7 to 30 times more plastic than liver or kidney samples from the same individuals. These nanoscale polyethylene shards, largely invisible to standard fluid-based monitoring, would have gone entirely undetected without tissue analysis.
 
 # Building a Representative Sample
 
@@ -42,6 +44,8 @@ By stratifying samples between "disease-related deaths" and "accidental deaths,"
 ## The Long-Term Vision: A Donation Norm
 
 A more ambitious approach would make posthumous tissue donation for scientific surveillance a social norm, similar to organ donation but with a lighter footprint. The infrastructure for this already exists in many countries through organ donor registries. The question is whether tissue surveillance could piggyback on these systems or establish parallel opt-out frameworks.
+
+*Note*: An open question remains: who would actually operate such a system? The CDC has the epidemiological infrastructure but no current mandate for tissue surveillance. The EPA ran NHATS but let it lapse. An interagency body might face coordination challenges, while a public-private partnership modeled on CHAMPS could face questions about data governance. The German Environmental Specimen Bank, which has operated continuously since 1985 under the Federal Environment Agency, offers one model: a government-operated biobank with standardized protocols and regular public reporting. Determining the right institutional home may be as important as solving the technical challenges.
 
 ### The Case for Opt-Out
 
@@ -85,7 +89,7 @@ To accurately quantify the body burden of a pollutant, the sample must remain ch
 In toxicology, we are often measuring parts per billion (ppb). At these concentrations, formalin fixation introduces two opposing sources of error: [contamination and leaching](https://doi.org/10.1002/etc.4709).
 
 **Contamination (False Highs)**
-Standard commercial formalin is can be "dirty" from a chemical perspective.
+Standard commercial formalin can be "dirty" from a chemical perspective.
 * **Trace Metals:** Formalin buffers frequently contain trace amounts of zinc, copper, and even lead from industrial manufacturing and storage. Studies have found that copper concentrations in formalin-fixed brain tissue [can increase by approximately 37%](https://doi.org/10.1007/s10534-010-9359-4) compared to fresh-frozen samples, likely due to contamination from the fixative. If you submerge a tissue sample in this solution, you lose the ability to distinguish between the metal that was in the tissue and the metal that was in the jar.
 * **Plasticizers:**  Formalin is often stored in plastic containers that leach phthalates and bisphenols. This makes it difficult to accurately measure these specific endocrine disruptors in the tissue, as background contamination from storage can overwhelm the true signal.
 
@@ -125,6 +129,12 @@ This approach will not be sufficient forever. To continue making progress, we ne
 
 The infrastructure for this exists in our hospitals and biobanks. The technology for analysis exists in our mass spectrometry labs. All that is missing is the mandate to look where the toxicants actually hide.
 
+# What Would Better Data Enable?
+
+The absence of systematic tissue surveillance leaves several important questions unanswered. Without population-level data on cumulative tissue burdens, regulators struggle to set meaningful reference values for persistent compounds, since blood levels reflect only recent exposure rather than lifetime accumulation. Environmental health agencies cannot determine whether existing regulations are actually reducing human body burden or merely shifting exposure to compounds that accumulate elsewhere in the body. And researchers investigating links between chronic diseases and environmental exposures must rely on proxy measures that may systematically underestimate the relevant dose.
+
+A functioning tissue surveillance system would enable direct measurement of whether regulatory interventions translate into reduced human body burden over time. It could identify emerging contaminants accumulating in tissues before health effects become apparent. And it could provide the denominator data needed to distinguish between compounds that pass through the body quickly and those that persist for decades.
+
 # History and Implementations
 
 ## National Human Adipose Tissue Survey (NHATS) (1970-1989)
@@ -133,7 +143,7 @@ This program was conducted between 1970-1989 by the EPA of the United States as 
 
 It's important to note that NHATS was not discontinued because it failed scientifically. It was discontinued in 1989 largely due to budget cuts and a bureaucratic shift toward 'easier' fluids-based monitoring.
 
-In fact, a 1991 National Academy of Sciences report strongly recommended continuing and redesigning the program, noting that fluid monitoring was insufficient for persistent pollutants. The report observed that funding "up to $25–50 million per year suggested by heads of other agencies could be put to good use" for a comprehensive tissue monitoring program, a fraction of what we spend on healthcare for the diseases these pollutants may exacerbate. That level of funding never materialized, and the program has remained dormant for over thirty years.
+In fact, a 1991 National Academy of Sciences report strongly recommended continuing and redesigning the program, noting that fluid monitoring was insufficient for persistent pollutants. [The 1991 NAS](https://doi.org/10.17226/1787) report explicitly concluded that "the basic structure of the NHATS is such that, even with major improvements, its ability to reflect the accumulations of toxic substances for the U.S. population would be seriously limited" and recommended a redesigned program with proper probability sampling. The report noted that funding "up to $25–50 million per year suggested by heads of other agencies could be put to good use" for comprehensive tissue monitoring, a fraction of what we spend on healthcare for the diseases these pollutants may exacerbate. That level of funding never materialized, and the program has remained dormant for over thirty years.
 
 ### The Policy Failure: Surveillance vs. Modeling
 
@@ -144,9 +154,12 @@ But the discontinuation of NHATS in 1989 wasn't just a budgetary decision; it wa
 **Why Models Failed:** History has shown this singular reliance on modeling to be an error.
 * **PFAS:** Predictive models failed to anticipate the bioaccumulation of perfluorinated compounds because the chemistry was novel and the uptake pathways were not yet understood. We only found them because we physically looked.
 * **PBDEs:** Flame retardants [rose in human tissue for years](https://doi.org/10.1021/es035082g) while regulators assumed they were safe, simply because there was no surveillance net to catch the trend early.
+* **Microplastics:** Environmental concentrations of micro- and nanoplastics have increased exponentially over 50 years, yet the extent of human tissue accumulation remained unknown until autopsy studies revealed concentrations in brain tissue [rising in parallel with environmental levels](https://doi.org/10.1038/s41591-024-03453-1). Blood-based biomonitoring cannot capture this burden because these particles sequester in lipid-rich tissues.
 
 Restarting a tissue archive is an admission that models are insufficient. We cannot predict the behavior of 80,000+ industrial chemicals; we must return to the empirical standard of measuring what is actually inside us.
 
 ## Child Health and Mortality Study (CHAMPS) (2015 - Present)
 
-Established in 2015 by the Bill & Melinda Gates Foundation (with sites becoming operational in 2016-2017), CHAMPS is a global health surveillance network dedicated to determining the definitive causes of death in children under five and stillbirths in high-mortality regions within Sub-Saharan Africa and South Asia. Moving beyond standard verbal autopsies, CHAMPS utilizes a "ground truth" protocol that combines clinical records with Minimally Invasive Tissue Sampling (MITS), which are then reviewed by a multidisciplinary panel to assign a precise cause of death. While the network currently prioritizes infectious diseases and malnutrition, its established infrastructure for collecting and banking solid organs seems to me like a potential candidate for future environmental toxicological surveillance.
+Established in 2015 by the Bill & Melinda Gates Foundation (with sites becoming operational in 2016-2017), CHAMPS is a global health surveillance network dedicated to determining the definitive causes of death in children under five and stillbirths in high-mortality regions. As of 2024, the network operates in nine countries: Bangladesh, Ethiopia, Kenya, Mali, Mozambique, Nigeria, Pakistan, Sierra Leone, and South Africa.
+
+Moving beyond standard verbal autopsies, CHAMPS utilizes a "ground truth" protocol that combines clinical records with Minimally Invasive Tissue Sampling (MITS), which are then reviewed by a multidisciplinary panel to assign a precise cause of death. While the network currently prioritizes infectious diseases and malnutrition, its established infrastructure for collecting and banking solid organs seems to me like a potential candidate for future environmental toxicological surveillance.
