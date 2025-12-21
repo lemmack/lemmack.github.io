@@ -36,6 +36,11 @@ enableGitInfo = true
     url = "/"
     weight = 10
   [[menu.main]]
+    identifier = "essays"
+    name = "Essays"
+    url = "/essays/"
+    weight = 15
+  [[menu.main]]
     identifier = "archive"
     name = "Archive"
     url = "/archive/"
