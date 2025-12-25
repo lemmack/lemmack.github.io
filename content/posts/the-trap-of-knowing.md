@@ -1,7 +1,7 @@
 ---
 title: "The Trap of Knowing"
 date: 2025-12-25
-draft: true
+draft: false
 description: ""
 ---
 
