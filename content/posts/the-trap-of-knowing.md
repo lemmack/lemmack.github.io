@@ -51,4 +51,4 @@ If graduate school makes me more capable of that, it will have been worth it. If
 
 So I'm naming the trap now, while I can still see it clearly. Maybe that will help me avoid it. Or maybe I'll read this in a few years and realize I fell in anyway. Either way, at least I'll know what I was trying to protect.
 
-P.S. I wrote this post on Christmas morning. So for anyone reading, Merry Christmas, happy holidays, and all the best for the new year ahead.🎄
+P.S. I wrote this post on Christmas morning. So for anyone reading, merry Christmas, happy holidays, and all the best for the new year ahead.🎄
