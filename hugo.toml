@@ -19,6 +19,10 @@ enableGitInfo = true
     name = "x"
     url = "https://x.com/MacklemCurtis"
 
+  [[params.socialIcons]]
+    name = "microblog"
+    url = "https://macklem.micro.blog"
+
   [params.profileMode]
     enabled = true
     title = "Thinking out loud about human health"
