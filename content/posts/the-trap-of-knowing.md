@@ -50,3 +50,5 @@ And I want to remember why I cared about any of this in the first place. The poi
 If graduate school makes me more capable of that, it will have been worth it. If it makes me less capable of that, I'll have lost something I can't easily get back.
 
 So I'm naming the trap now, while I can still see it clearly. Maybe that will help me avoid it. Or maybe I'll read this in a few years and realize I fell in anyway. Either way, at least I'll know what I was trying to protect.
+
+P.S. I wrote this post on Christmas morning. So for anyone reading, Merry Christmas, happy holidays, and all the best for the new year ahead.

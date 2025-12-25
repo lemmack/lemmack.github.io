@@ -1,3 +1,11 @@
+{{- $p := . -}}
+{{- $hide_lastmod := false -}}
+{{- if reflect.IsMap . -}}
+{{- $p = .context -}}
+{{- $hide_lastmod = .hide_lastmod -}}
+{{- end -}}
+
+{{- with $p -}}
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
@@ -5,7 +13,7 @@
 site.Params.DateFormat)))) }}
 {{- end }}
 
-{{- if and .Lastmod (gt .Lastmod .Date) -}}
+{{- if and .Lastmod (gt .Lastmod .Date) (not $hide_lastmod) -}}
 {{- $scratch.Add "meta" (slice (printf "<span title='%s'>Updated: %s</span>" (.Lastmod) (.Lastmod | time.Format (default
 ":date_long" site.Params.DateFormat)))) }}
 {{- end -}}
@@ -28,4 +36,5 @@ site.Params.DateFormat)))) }}
 
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}
 {{- end -}}
