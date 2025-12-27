@@ -26,7 +26,7 @@ enableGitInfo = true
   [params.profileMode]
     enabled = true
     title = "Thinking out loud about human health"
-    subtitle = "Here lies a collection of my assorted thoughts and investigations related to human health."
+    subtitle = "Here lies a collection of my assorted thoughts and investigations related to human health and the social scaffolding around it."
 
 [markup]
   [markup.tableOfContents]
