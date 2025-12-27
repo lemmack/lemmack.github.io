@@ -7,7 +7,7 @@ description: ""
 
 ## The Problem of Dormant Knowledge
 
-Most human knowledge goes unseen. Even when recorded. Even when technically available. Even when brilliant.
+A lot of human knowledge goes unseen. Even when recorded. Even when technically available. Even when brilliant.
 
 Consider the mathematics of it: [over 3 million peer-reviewed articles are published annually](https://www.embs.org/pulse/articles/using-artificial-intelligence-to-combat-information-overload-in-research/) across more than 30,000 journals, a figure that has been doubling roughly every nine years since World War II. The biomedical field alone sees [over a million papers pour into PubMed each year](https://doi.org/10.1038/nj7612-457a), growing at 8-9% annually. No one can keep up. Not even specialists in narrow subfields.
 
