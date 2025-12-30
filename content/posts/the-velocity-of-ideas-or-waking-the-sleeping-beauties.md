@@ -7,9 +7,9 @@ description: ""
 
 ## The Problem of Dormant Knowledge
 
-A lot of human knowledge goes unseen. Even when recorded. Even when technically available. Even when brilliant.
+A lot of human knowledge goes unseen or underutilized.
 
-Consider the mathematics of it: [over 3 million peer-reviewed articles are published annually](https://www.embs.org/pulse/articles/using-artificial-intelligence-to-combat-information-overload-in-research/) across more than 30,000 journals, a figure that has been doubling roughly every nine years since World War II. The biomedical field alone sees [over a million papers pour into PubMed each year](https://doi.org/10.1038/nj7612-457a), growing at 8-9% annually. No one can keep up. Not even specialists in narrow subfields.
+[Over 3 million peer-reviewed articles are published annually](https://www.embs.org/pulse/articles/using-artificial-intelligence-to-combat-information-overload-in-research/) across more than 30,000 journals, a figure that has been doubling roughly every nine years since World War II. The biomedical field alone sees [over a million papers pour into PubMed each year](https://doi.org/10.1038/nj7612-457a), growing at 8-9% annually. No one can keep up. Not even specialists in narrow subfields.
 
 And what happens to all this knowledge? A significant fraction simply sits there. Citation studies vary in their estimates ([the often-quoted "90% of papers are never cited" appears to be overstated](https://blogs.lse.ac.uk/impactofsocialsciences/2014/04/23/academic-papers-citation-rates-remler/)), but the reality is still stark: [approximately 27% of natural science papers, 32% of social science papers, and over 80% of humanities papers](https://doi.org/10.1162/qss_a_00142) go uncited within five years of publication. Being uncited is not the same as being unread, and being unread is not the same as being useless. But the broader pattern holds: vast quantities of recorded insight effectively do not exist for most of the people who might benefit from them.
 
